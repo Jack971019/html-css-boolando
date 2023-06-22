@@ -54,3 +54,16 @@
 .old_price{
     color: black;
 }
+
+.body_flex{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.side_solid{
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(202, 197, 197);
+    margin-bottom: 50px;
+}
