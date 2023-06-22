@@ -10,7 +10,7 @@
     height: 50px;
 }
 
-.flex{
+.header_flex{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -35,4 +35,22 @@
 
 .title{
     text-align: center;
+}
+
+.img_weight{
+    height: 400px;
+}
+
+.main_container{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.color_price{
+    color: red;
+}
+
+.old_price{
+    color: black;
 }
