@@ -1,0 +1,38 @@
+.bg_color{
+    background-color: orange;
+}
+
+.text_color{
+    color: white;
+}
+
+.contenitor_height{
+    height: 50px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img_height{
+   height: 30px;
+} 
+
+.icons_margin{
+    margin-left: 5px;
+}
+
+.font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitle{
+ padding: 0px;
+ text-align: center;
+}
+
+.title{
+    text-align: center;
+}
