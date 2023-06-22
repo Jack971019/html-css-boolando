@@ -102,3 +102,14 @@
     padding-top: 1px;
 }
 
+.margin_1px{
+   margin: 1px;
+}
+
+.padding_bottom_10px{
+    padding-bottom: 10px;
+}
+
+.margin_0px{
+    margin: 0px;
+}
